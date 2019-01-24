@@ -1,5 +1,5 @@
-PRINT()
-PRINT("yoyoyo")
-PRINT("Whaaa?")
 PRINT("HI!")
 PRINT("HOW?")
+PRINT("!")
+PRINT("yoyoyo!")
+PRINT("Whaaa?!")
